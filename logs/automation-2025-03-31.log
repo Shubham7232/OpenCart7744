@@ -1,0 +1,83 @@
+13:14:27.527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+13:14:31.660 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegiistrationTest ********
+13:14:31.760 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+13:14:32.383 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:14:35.395 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+13:14:38.846 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected Message...
+13:14:38.884 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finishing TC001_AccountRegiistrationTest ********
+13:23:31.293 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\crossbrowsertesting.xml
+
+13:46:49.846 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+11:11:58.175 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+11:12:02.141 [main] INFO  testCases.TS002_AccountLoginTest - ******Starting TS002_AccountLoginTest******
+11:12:03.491 [main] INFO  testCases.TS002_AccountLoginTest - *****Finished TS002_AccountLoginTest*****
+13:16:24.306 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+13:18:54.572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+13:20:56.935 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+13:22:34.717 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+13:23:48.642 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+13:24:30.069 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+10:26:56.094 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+10:31:27.905 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+10:35:45.965 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+10:38:32.615 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+10:47:46.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\master.xml
+
+10:59:23.544 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\grouping.xml
+
+11:00:24.523 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\grouping.xml
+
+11:00:27.363 [main] INFO  testCases.TS002_AccountLoginTest - ******Starting TS002_AccountLoginTest******
+11:00:28.624 [main] INFO  testCases.TS002_AccountLoginTest - *****Finished TS002_AccountLoginTest*****
+11:01:45.138 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\grouping.xml
+
+11:01:47.838 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegiistrationTest ********
+11:01:47.955 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+11:01:48.387 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:01:51.394 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:01:55.518 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected Message...
+11:01:55.558 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finishing TC001_AccountRegiistrationTest ********
+11:01:57.824 [main] INFO  testCases.TS002_AccountLoginTest - ******Starting TS002_AccountLoginTest******
+11:01:59.278 [main] INFO  testCases.TS002_AccountLoginTest - *****Finished TS002_AccountLoginTest*****
+12:55:02.501 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java\OpenCart7744\grouping.xml
+
+12:55:07.182 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegiistrationTest ********
+12:55:07.325 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+12:55:08.202 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+12:55:11.220 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+12:55:15.523 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected Message...
+12:55:15.584 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finishing TC001_AccountRegiistrationTest ********
+12:55:18.056 [main] INFO  testCases.TS002_AccountLoginTest - ******Starting TS002_AccountLoginTest******
+12:55:19.510 [main] INFO  testCases.TS002_AccountLoginTest - *****Finished TS002_AccountLoginTest*****
